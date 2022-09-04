@@ -59,11 +59,11 @@ a:link {
 
 .img-link-text{
   color: #ECE8D9;
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 16pt;
   font-weight: bold;
-  position:absolute;
-  bottom: 135px;
+  position: absolute;
+  padding-top: 120px;
 }
 
 
